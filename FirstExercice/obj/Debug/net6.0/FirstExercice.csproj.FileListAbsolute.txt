@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C#\FirstExercice\bin\Debug\net6.0\FirstExercice.exe
+C:\xampp\htdocs\C#\FirstExercice\bin\Debug\net6.0\FirstExercice.deps.json
+C:\xampp\htdocs\C#\FirstExercice\bin\Debug\net6.0\FirstExercice.runtimeconfig.json
+C:\xampp\htdocs\C#\FirstExercice\bin\Debug\net6.0\FirstExercice.dll
+C:\xampp\htdocs\C#\FirstExercice\bin\Debug\net6.0\FirstExercice.pdb
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.AssemblyInfo.cs
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.dll
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\refint\FirstExercice.dll
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.pdb
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\FirstExercice.genruntimeconfig.cache
+C:\xampp\htdocs\C#\FirstExercice\obj\Debug\net6.0\ref\FirstExercice.dll

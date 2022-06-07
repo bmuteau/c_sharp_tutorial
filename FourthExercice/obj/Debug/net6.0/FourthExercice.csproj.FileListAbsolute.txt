@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C#\FourthExercice\bin\Debug\net6.0\FourthExercice.exe
+C:\xampp\htdocs\C#\FourthExercice\bin\Debug\net6.0\FourthExercice.deps.json
+C:\xampp\htdocs\C#\FourthExercice\bin\Debug\net6.0\FourthExercice.runtimeconfig.json
+C:\xampp\htdocs\C#\FourthExercice\bin\Debug\net6.0\FourthExercice.dll
+C:\xampp\htdocs\C#\FourthExercice\bin\Debug\net6.0\FourthExercice.pdb
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.AssemblyInfo.cs
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.dll
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\refint\FourthExercice.dll
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.pdb
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\FourthExercice.genruntimeconfig.cache
+C:\xampp\htdocs\C#\FourthExercice\obj\Debug\net6.0\ref\FourthExercice.dll

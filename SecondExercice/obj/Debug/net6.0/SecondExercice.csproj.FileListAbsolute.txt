@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C#\SecondExercice\bin\Debug\net6.0\SecondExercice.exe
+C:\xampp\htdocs\C#\SecondExercice\bin\Debug\net6.0\SecondExercice.deps.json
+C:\xampp\htdocs\C#\SecondExercice\bin\Debug\net6.0\SecondExercice.runtimeconfig.json
+C:\xampp\htdocs\C#\SecondExercice\bin\Debug\net6.0\SecondExercice.dll
+C:\xampp\htdocs\C#\SecondExercice\bin\Debug\net6.0\SecondExercice.pdb
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.AssemblyInfo.cs
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.dll
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\refint\SecondExercice.dll
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.pdb
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\SecondExercice.genruntimeconfig.cache
+C:\xampp\htdocs\C#\SecondExercice\obj\Debug\net6.0\ref\SecondExercice.dll
