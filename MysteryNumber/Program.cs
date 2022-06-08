@@ -1,5 +1,6 @@
 ﻿const int mystereNumber = 42;
 
+
 Console.WriteLine("Bienvenue dans le jeu du nombre mystère !");
 Console.WriteLine("Veuillez saisir votre prénom: ");
 string name = Console.ReadLine();
@@ -19,10 +20,27 @@ foreach(int nbr in nbrUsed)
     Console.Write(nbr + " ");
 }
 Console.WriteLine();
+int userNumber = 0;
+while(userNumber < 1 || userNumber > 100)
+{
+    Console.WriteLine("Veuillez saisir un nombre entre 1 et 100: ");
+   
+    try
+    {
+        userNumber = int.Parse(Console.ReadLine());
+  
+    }
+    catch 
+    {
+        userNumber = 0;
+    }
+
+}
+nbrUsed.Add(userNumber);
 Console.WriteLine("Devine le chiffre mystère: ");
 
-int userNumber = int.Parse(Console.ReadLine());
-nbrUsed.Add(userNumber);
+
+
 
 if (mystereNumber == userNumber)
 {
